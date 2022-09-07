@@ -4,6 +4,13 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <OutputType>Library</OutputType>
+    <PackageId>AspCoreDependencyInjectionExtension.InjectionProperty</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Shaman739</Authors>
+    <PackageDescription>AspCoreDependencyInjectionExtension.InjectionProperty</PackageDescription>
+    <RepositoryUrl>https://github.com/Shaman739/AspCoreDependencyInjectionExtension.InjectionProperty</RepositoryUrl>
+	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
