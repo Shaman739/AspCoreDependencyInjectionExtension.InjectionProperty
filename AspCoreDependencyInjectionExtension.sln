@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspCoreDependencyInjectionExtension", "AspCoreDependencyInjectionExtension\AspCoreDependencyInjectionExtension.csproj", "{2A8504DA-262D-4E8B-9A01-EDA8BD9774F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspCoreDependencyInjectionExtension.InjectionProperty", "AspCoreDependencyInjectionExtension.InjectionProperty\AspCoreDependencyInjectionExtension.InjectionProperty.csproj", "{31EB6F8F-C3D5-4605-B349-5DB1E3F53CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8504DA-262D-4E8B-9A01-EDA8BD9774F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8504DA-262D-4E8B-9A01-EDA8BD9774F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8504DA-262D-4E8B-9A01-EDA8BD9774F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8504DA-262D-4E8B-9A01-EDA8BD9774F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EB6F8F-C3D5-4605-B349-5DB1E3F53CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EB6F8F-C3D5-4605-B349-5DB1E3F53CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EB6F8F-C3D5-4605-B349-5DB1E3F53CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EB6F8F-C3D5-4605-B349-5DB1E3F53CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED89E891-BC1D-4D15-8B60-DE5DB64104DE}
+	EndGlobalSection
+EndGlobal
