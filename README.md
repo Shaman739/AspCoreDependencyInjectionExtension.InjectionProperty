@@ -1,4 +1,4 @@
-# AspCoreDependencyInjectionExtension.InjectionProperty
+[![NuGet version](https://badge.fury.io/nu/AspCoreDependencyInjectionExtension.InjectionProperty.svg)](https://badge.fury.io/nu/AspCoreDependencyInjectionExtension.InjectionProperty)
 
 # How to use.
 
@@ -16,7 +16,7 @@ And then you need to add attribute **[InjectionService]** to a property
         private ILogger<TestController> _logger { get; set; }
 ```   
 
-Attribute **[InjectionService]** can inject to public, protected or pricate property.
+Attribute **[InjectionService]** can inject to public, protected or private property.
 
 All example:
 ```C#
