@@ -11,9 +11,8 @@ namespace AspCoreDependencyInjectionExtension.Controllers
         [InjectionService]
         private ILogger<TestController> _logger { get; set; }
 
-        public TestController(ILogger<TestController> logger)
+        public TestController()
         {
-            _logger = logger;
         }
 
         [HttpGet]

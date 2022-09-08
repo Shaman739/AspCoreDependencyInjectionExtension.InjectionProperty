@@ -1,7 +1,10 @@
-﻿namespace AspCoreDependencyInjectionExtension.InjectionProperty;
+﻿using System;
 
-[AttributeUsage(AttributeTargets.Property)]
-public class InjectionServiceAttribute : Attribute
+namespace AspCoreDependencyInjectionExtension.InjectionProperty
 {
+    [AttributeUsage(AttributeTargets.Property)]
+    public class InjectionServiceAttribute : Attribute
+    {
 
+    }
 }
